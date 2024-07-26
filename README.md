@@ -4,7 +4,7 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report](https://github.com/AryanSurana27/Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
+    **1.** Create a [Customer Performance Report](https://github.com/AryanSurana27/SALES-ANALYSIS/blob/main/Customer%20Performance%20Report.pdf)
 
     **2.** Conduct a comparative analysis between _[market performance vs  sales target](https://github.com/AryanSurana27/Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
 
