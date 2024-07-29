@@ -1,5 +1,5 @@
 
-# Sales Analysis Report :
+## Sales Analysis Report :
 
 #This Project Report involves a comprehensive analysis of Customer Performance and Market Performance to identify SALES of Atliq Hardware that can help improve business strategies and performance.
   
@@ -24,6 +24,40 @@
 
 
 ## Finance Report :
+
+#This Report is created to identify P&L Statement of Atliq Hardware by comparing Net Sales and Gross Margin by Fiscal Year, Markets and Months.
+
+**Project objective:**
+
+  **1.** Create [P&L Statemnt report by Fiscal Year](https://github.com/AryanSurana27/SALES-ANALYSIS/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)
+
+  **2.** Create [P&L Statemnt report by Markets](https://github.com/AryanSurana27/SALES-ANALYSIS/blob/main/P%26L%20Statement%20by%20Markets.pdf)
+
+   **3.** Create [P&L Statemnt report by Months](https://github.com/AryanSurana27/SALES-ANALYSIS/blob/main/P%26L%20Statement%20by%20Months.pdf)
+   
+ **Dataset:**
+     The dataset includes Net Sales , COGS and Gross Margin of Atliq Hardware on the basis of their Fiscal Year, Markets and Months for the financial year 
+     2019,2020 and 2021.
+
+  **Purpose of sales analytics:** Analysis of financial performance, Support decision-making, and facilitate communication with stakeholders.
+
+- **Importance of analyzing Finance data:** Analyzing the financial data provides the necessary information regarding investments,budgeting and financial planning.It helps to understand the current financial status and predict future performance.
+
+- **Role of reports:** Align financial planning with strategic goals and bring confidence in the organization's financial outlook.
+
+ ## Skills Acquired:
+- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
+- [x]	Skills to generate a different tables using Power Query.
+- [x] Analysing the Data using Pivot Table.	
+- [x]	Establishing data model relationships with Power Pivot.
+- [x]	Utilizing DAX to create calculated columns.
+- [x]	Refined understanding of Sales & Finance Reports
+- [x]	Designing the reports for better understanding.
+- [x]	Developing a systematic approach to devising a report building plan.
+
+  
+
+
 
 - 
 
